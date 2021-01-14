@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GestioneMezzi
 {
-    class Citycar : Automobile
+    public enum Colori
     {
-        public Citycar()
-        {
 
-        }
     }
 }

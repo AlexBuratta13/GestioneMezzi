@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace GestioneMezzi
 {
-    class Automobile
+    class Automobile : MezzoDiTrasporto
     {
+        private string Marca { get; set; }
+        private string Targa { get; set; }
+        public Automobile()
+        {
 
+        }
     }
 }

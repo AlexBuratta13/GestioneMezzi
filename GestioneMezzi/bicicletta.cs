@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace GestioneMezzi
 {
-    class bicicletta
+    class bicicletta : MezzoDiTrasporto
     {
+        private string modello { get; set; }
+        public bicicletta()
+        {
+            
+        }
     }
 }

@@ -44,6 +44,7 @@
     <Compile Include="Automobile.cs" />
     <Compile Include="bicicletta.cs" />
     <Compile Include="Citycar.cs" />
+    <Compile Include="Colori.cs" />
     <Compile Include="MezzoDiTrasporto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
